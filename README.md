@@ -5,7 +5,7 @@
   <a href="t.me/alex_grap">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="vk.com/alex_grap](https://vk.com/idalexgrap">
+  <a href="https://vk.com/idalexgrap">
     <img src="https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
