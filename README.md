@@ -24,4 +24,10 @@ I'm a Golang developer. In now a moment I'm studying in MSTU "STANKIN" & "School
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Basg " width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+<h2>Statistics :<h2/>
+<div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexGrap)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
