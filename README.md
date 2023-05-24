@@ -20,7 +20,7 @@ I'm a Golang developer. In now a moment I'm studying in MSTU "STANKIN" & "School
 <h2> Technologies :</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/617301e7ff30bc85f26fe31b60d3cf09ea1e3cd45d5879ac28fdbe2fc43b3f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" title="C/C++" alt="c/C++" width="100" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgre" alt="Postgre" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
